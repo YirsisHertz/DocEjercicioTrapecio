@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.hzcode.uni.ejercicio1.modulos","l":"AreaTrapecio"},{"p":"com.hzcode.uni.ejercicio1.modulos","l":"Datos"},{"p":"com.hzcode.uni.ejercicio1","l":"EjercicioAreaTrapecio"}];updateSearchResults();
